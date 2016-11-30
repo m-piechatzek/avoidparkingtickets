@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">"Avoid Parking Tickets"</string>
+    <string name="ticketter_des">"Press the \"Ticketter Spotted\" button when you see a
+    parking lot attendent and let others know that they may need to put in more change or leave!"</string>
+
+    <string name="ticketter_spotted">"Ticketter Spotted"</string>
+
+    <string name="user_checkin_des">"Press the \"Check In\" button when you've parked your vehicle and would like
+        notifications when ticketter's are in your area!"</string>
+    <string name="user_checkin">"Check In"</string>
+</resources>
