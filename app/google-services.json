@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "735247195398",
+    "firebase_url": "https://avoidparkingtickets.firebaseio.com",
+    "project_id": "avoidparkingtickets",
+    "storage_bucket": "avoidparkingtickets.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735247195398:android:2aad3e3a59cad494",
+        "android_client_info": {
+          "package_name": "com.example.monikapiechatzek.avoidparkingtickets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735247195398-ql3cn97hqc31tnv7pnus6a03gkq555tr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.monikapiechatzek.avoidparkingtickets",
+            "certificate_hash": "548668D31C2CB4A3F0D9EA6B62915C0B30A890C2"
+          }
+        },
+        {
+          "client_id": "735247195398-qqgdlc3mindn7igbla4i0bfsjf49eq1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6BxI4ZIXy-eVjKr9Z5AU2UrAj7bRhk6U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735247195398-qqgdlc3mindn7igbla4i0bfsjf49eq1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
